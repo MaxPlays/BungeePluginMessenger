@@ -1,0 +1,5 @@
+name: BungeePluginMessenger
+description: Plugin message tool
+author: MaxPlays
+version: 1.0.0
+main: me.MaxPlays.BungeePluginMessenger.BungeePluginMessenger
