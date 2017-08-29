@@ -166,7 +166,7 @@ Now we are ready to query data from our BungeeCord server.
 **Example Response (JSON Object)**
 ```json
 {  
-   name:"Player1",
+   "name":"Player1",
    "online":true,
    "server":"Server1",
    "uuid":"UUID1",
@@ -176,7 +176,7 @@ Now we are ready to query data from our BungeeCord server.
 ```
 ```json
 {  
-   name:"Player2",
+   "name":"Player2",
    "online":false
 }
 ```
